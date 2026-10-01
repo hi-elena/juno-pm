@@ -4,18 +4,18 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+https://customer-soundboard.lovable.app
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Proves that qualitative customer feedback can be systematically synthesized into an evidence-backed, trend-aware executive pulse without losing the voice of the customer.
 
 _____
 
 ## Debrief
 
 - **What worked:** _____
-- **What broke / felt like a toy:** _____
+- I needed more time to test it, improve it
 - **What I'd change next pass:** _____
