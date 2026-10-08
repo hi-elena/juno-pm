@@ -12,7 +12,9 @@ _(missing)_
 
 Max steps before stopping: 4 steps total.
 (Step 1: Read & tag feedback ➔ Step 2: Look up technical & account facts ➔ Step 3: Connect the dots & draft themes ➔ Step 4: Verify quotes & confidence. If it isn't done in 4 steps, something went wrong.)
+
 Trigger to abort early: Abort if any tool fails 2 times in a row, or if 2 different data sources fail.
+
 Hard wall-clock timeout: 30 seconds.
 
 **Structured Tool Outputs** (Tools):
